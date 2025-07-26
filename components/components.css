@@ -1,0 +1,10 @@
+/* hero */
+.moon{
+    box-shadow: 25px -15px 0 0;
+}
+
+@media (max-width: 768px) {
+    .moon {
+        box-shadow: 20px -10px 0 ;
+    }
+}
