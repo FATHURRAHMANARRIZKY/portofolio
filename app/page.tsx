@@ -12,7 +12,6 @@ export default function Home() {
     <div className="home-container">
       <Navbar />
       <div className="hero flex flex-col justify-center items-center w-full h-[90.5vh] md:h-[89.5vh] relative">
-        {/* <div className="moon absolute top-28 left-[51%] -translate-x-1/2 w-64 h-64 bg-transparent rounded-full z-0" /> */}
         <div className="brand z-10">
           <span className="text-9xl font-bold italic">F21</span>
         </div>
