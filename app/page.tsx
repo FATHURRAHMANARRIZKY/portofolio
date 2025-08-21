@@ -60,7 +60,6 @@ export default function Home() {
           <Link href="/privacy-policy.html">
           PRIVACY POLICY
           </Link>
-          {/* <span className="ml-auto text-sm">Made with ❤️ in Indonesia</span> */}
         </div>
           <span className="text-sm flex justify-center">© 2025 F21. All rights reserved.</span>
       </footer>
